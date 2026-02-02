@@ -111,5 +111,5 @@
 ----
 
 ## Open source licensing info
-2. [LICENSE](LICENSE)
+2. [LICENSE](LICENSE)https://github.com/Ekaterina01122002/Task-8.-/blob/main/LICENSE
 
